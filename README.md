@@ -1,5 +1,12 @@
-### Hi there 👋
-
+# Zhongheng Liu
+Web and software developer proficient in TypeScript and Java Spring Boot framework. Linux system enthusiast and self-proclaimed preacher of FOSS philosophy.
+## Some notable projects
+- `stvnliu/pdf-trim` is a small utility to remove pages from a PDF document before the page number of the actual content begins.
+- `stvnliu/byron-college-coding-club` contains tutorial files written in Python script to be used in the Byron College Coding Club.
+- `stvnliu/epqapi` and `stvnliu/epq-web` are counterparts to a chat server written in Java and TypeScript that is the artefact of an EPQ.
+- `stvnliu/KindleRSS` forks `Ate329/KindleRSS`, which implements an RSS subscription feature to automatically translate articles from a top-level RSS source to an EPUB file that can be viewed on a device like a Kindle.
+- `stvnliu/nixos-dotfiles` is a consistently updating repository containing the personal configuration of my NixOS laptop, designed to be as reusable as physically possible.
+- `stvnliu/proteinpedia-next` is a web app to create a unified interface to perform CRUD updates on info in relation to proteins used in biochemistry. In active development.   
 <!--
 **stvnliu/stvnliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
